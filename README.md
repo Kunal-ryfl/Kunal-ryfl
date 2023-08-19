@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal Bhardwaj</h1>
-<h3 align="center">A full stack web developer and coding lover.</h3>
+<h3 align="center">A full stack web developer(Next/T3) and coding lover.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal-ryfl&label=Profile%20views&color=0e75b6&style=flat" alt="kunal-ryfl" /> </p>
 
