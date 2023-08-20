@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kunal Bhardwaj</h1>
-<h3 align="center">A full stack web developer(Next/T3) and coding lover.</h3>
+<h3 align="center">A full stack web developer(Next/T3).
+I'm currently pursuing my bachelor's in computer science engineering from Panjab University. I was always fascinated about tech. My fascination has been my motivation to get into tech industry.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal-ryfl&label=Profile%20views&color=0e75b6&style=flat" alt="kunal-ryfl" /> </p>
 
@@ -9,7 +10,7 @@
 
 - 📫 How to reach me **KunalSharma070806@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:https://www.linkedin.com/in/kunal-bhardwaj-b07b87217/</h3>
 <p align="left">
 </p>
 
